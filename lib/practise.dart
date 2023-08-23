@@ -37,6 +37,12 @@ void main(){
   human.myNamePrint('name');
   var sum = human.getSum(10, 30);
   print("A+B : $sum");
+
+  final String names = 'sajodf';
+
+  final String country;
+  country = "Bangladesh";
+
   
 }
 
